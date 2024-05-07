@@ -1,0 +1,9 @@
+El producto interno de matrices es:
+
+Asociativa: Sí
+Distributiva: Sí
+Conmutativa: NO
+El producto interno de vectores es:
+Asociativa: Sí
+Distributiva: Sí
+Conmutativa: Sí

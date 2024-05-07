@@ -1,0 +1,5 @@
+Tipos de sistemas de ecuaciones:
+
+Incompatible o sobredeterminado: Cuando no hay soluciones para el sistema. Hay más ecuaciones que incógnitas
+Compatible determinado: Cuando el sistema tiene una única solución. Hay tantas ecuaciones como incógnitas (convergen en un sólo punto)
+Compatible indeterminado: Cuando hay infinitas soluciones. Hay menos ecuaciones que incógnitas.
